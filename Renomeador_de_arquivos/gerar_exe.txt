@@ -1,0 +1,1 @@
+C:\Users\guuir\OneDrive\Atendimentos\EMPRESA LARISSA\Renomeador_de_arquivos> pyinstaller --noconsole --onefile Renomeia_Envia_WPP.py
